@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun fact:
 
-* trying to become a filmmaker, somehow: ![koraltan.de](https://koraltan.de)
+* trying to become a filmmaker, somehow: [koraltan.de](https://koraltan.de)
