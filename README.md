@@ -29,17 +29,30 @@
   <details>
     <summary>🍒 Some Facts</summary>
     <br>
-    <p>🔭 I’m currently working on WPA with Blockchain</p>
+    <p>🔭 I’m currently working on
+      <ul>
+        <li>WPA with Blockchain https://github.com/eat-me-bro </li>
+      </ul>
+    </p>
     <p>🌱 I’m currently learning:
       <ul>
-        <li>Rust  https://doc.rust-lang.org/book </li>
+        <li>Rust https://doc.rust-lang.org/book </li>
         <li>nodeJS https://nodejs.dev </li>
         <li>angular.io https://angular.io </li>
       </ul>
     </p>
-    <p>👯 I’m looking to collaborate on Blockchain Projects</p>
-    <p>🤔 I’m looking for help with rust</p>
-    <p>💬 Ask me about Blockchain, web3, SAP, anything you want</p>
+    <p>👯 I’m looking to collaborate on
+      <ul>
+        <li>Blockchain Projects</li>
+        <li>Machine Learning projects in Rust</li>
+      </ul>
+    </p>
+    <p>💬 Ask me about
+      <ul>
+        <li>Blockchain</li>
+        <li>Web 3, SAP, anything you want</li>
+      </ul>
+    </p>
     <p>⚡ Fun fact: Trying to become a filmmaker, somehow
       <ul>
         <li>koraltan.de https://koraltan.de</li>
