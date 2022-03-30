@@ -3,7 +3,7 @@
 -->
 
 <samp>
-  <h3 align="center">Hi & Welcome...</h3>
+  <h3 align="center">console.log(`Hi & Welcome Fellow ${DEVELOPERS}`);</h3>
   <div align="center">
     <br>
     <a href="https://www.linkedin.com/in/koraltan-kaynak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
