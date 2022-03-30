@@ -67,6 +67,6 @@
 <div align="right">
   <samp>Last Edit 2022-03-30</samp>
   <br>
-  <img src="https://img.shields.io/github/followers/kori2000.svg?style=social&label=Follow&maxAge=2592000" />
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/{kori2000}1212%2Fhit-counter" />
+  <img src="https://img.shields.io/github/followers/kori2000.svg?style=social&label=Follow&maxAge=2592000" />
 </div>
