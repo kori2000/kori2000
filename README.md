@@ -61,12 +61,9 @@
   </details>
 </samp>
 
-<hr>
-
 <img src="https://github-readme-stats.vercel.app/api?username=kori2000&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kori2000&theme=blueberry_duo"/>
 |---|---|
 
-<hr>
 <div align="right">
   <samp>Last Edit 2022-03-30</samp>
   <br>
