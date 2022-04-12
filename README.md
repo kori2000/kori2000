@@ -14,8 +14,8 @@
     <a href="https://t.me/koraltan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="mailto:koraltan.kaynak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br>
-    <br>
-    <img src="https://user-images.githubusercontent.com/30118461/160831871-7b7f00dc-31a5-47c7-afe1-ce4cd6e4d547.gif" />
+    <br>    
+    <img src="https://user-images.githubusercontent.com/30118461/160831871-7b7f00dc-31a5-47c7-afe1-ce4cd6e4d547.gif" width="100%" height="400" />
   </div>
 </samp>
 <br/>
